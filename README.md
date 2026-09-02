@@ -465,32 +465,6 @@ ipython>=8.0.0
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Areas for Contribution
-- Model improvements and hyperparameter tuning
-- Additional data sources for scraping
-- Performance optimization
-- Documentation enhancement
-- Bug fixes and issue resolution
-- New classification architectures (2-Stage model)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
----
-
 ## 👤 Contact
 
 **Author**: Richelle Marvela  
@@ -542,8 +516,3 @@ This project demonstrates a complete machine learning pipeline for Indonesian te
 - A resource for understanding multi-source web scraping
 - A template for similar text classification tasks
 
----
-
-**Last Updated**: September 2, 2026  
-**Status**: In Development  
-**Version**: 1.0.0-beta
